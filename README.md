@@ -1,6 +1,6 @@
 ![Imdico Logo](icon-192.png)
 
-# IMDiCo - Calculadora de Índice de Masa Corporal
+# ImDiCo - Calculadora de Índice de Masa Corporal
 
 **Herramienta web para el cálculo y seguimiento del Índice de Masa Corporal (IMC), con historial temporal de mediciones, clasificación según estándares de la OMS y diseño responsive. Construida con vibe coding en Bolt.new.**
 
